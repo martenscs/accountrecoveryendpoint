@@ -4,7 +4,7 @@ body {
     font-weight: 300;
 }
 header {
-    background: #222222;
+    background: #00437b;
     min-height: 50px;
     position: relative;
 }
@@ -35,7 +35,7 @@ footer {
     min-height: 40px;
     overflow: hidden;
     color: #cbcbcb;
-    background: #222222;
+    background: #00437b;
 }
 footer > .container, footer > .container-fluid {
     padding-right: 15px;
@@ -64,7 +64,7 @@ footer a, footer a:hover {
     color: #FFF;
 }
 .blue-bg {
-    background-color: #3a9ecf !important;
+    background-color: #00437b !important;
 }
 .uppercase {
     text-transform: uppercase;
@@ -112,7 +112,7 @@ button.grey-bg:hover {
     background-color: #6b94f1;
 }
 button.grey-bg {
-    background-color: #222222;
+    background-color: #00437b;
 }
 button.font-extra-large {
     font-size: 20px;
